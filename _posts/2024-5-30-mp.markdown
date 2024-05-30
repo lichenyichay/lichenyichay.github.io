@@ -1,0 +1,21 @@
+---
+layout:       post
+title:        "This is lichenyichay's Includings"
+author:       "Lichenyichay"
+header-style: text
+catalog:      true
+tags:
+    - Python
+    - Including
+---
+
+# This is lichenyichay's Includings
+
+## First All-in-one
+link1: https://pypi.org/project/All-in-one-chay/
+link2: https://github.com/lichenyichay/All-in-one-Including
+## Second Lotterytickets-Including
+link1: https://pypi.org/project/lotterytickets/
+link2: https://github.com/lichenyichay/lotterytickets-Including 
+## Third/Last Chinese <-> number Including
+It's not successful.
